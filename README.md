@@ -1,11 +1,11 @@
 # bainiu
 run
 ```
->> webpack
+>> npm run build
 ```
 or
 ```
->> webpack --watch
+>> yarn build
 ```
 
 and open index.html
